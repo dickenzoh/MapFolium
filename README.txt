@@ -1,0 +1,1 @@
+This is web map created using  python and Folium and can be visited through the web.
